@@ -36,7 +36,7 @@
 ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)<br>
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Comment](https://img.shields.io/badge/-azure%20is%20also%20good,%20but%20haven't%20tried%20it%20yet-555566?style=for-the-badge)
+![Comment](https://img.shields.io/badge/-is%20also%20good,%20but%20haven't%20tried%20it%20yet-555566?style=for-the-badge)
 ## Writing code mostly in (ide/languages)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
