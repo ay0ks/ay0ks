@@ -1,5 +1,5 @@
 # Hi, I'm Dimitriy :wave:
-## I'am middle Python backend developer. Currently learing TypeScript.
+## I am middle Python backend developer. Currently learing TypeScript.
 [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://short.zeronet.space/gmail)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://short.zeronet.space/telegram)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://short.zeronet.space/reddit)
