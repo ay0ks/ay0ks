@@ -1,11 +1,11 @@
 # Hi, I'm Dimitriy :wave:
 ## I'am middle Python backend developer. Currently learing TypeScript.
-[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://zeronet.space/contact/gmail)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://zeronet.space/contact/telegram)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://zeronet.space/contact/reddit)
-[![Discord](https://img.shields.io/badge/KFC%20Foundation-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NzRHReKKCj)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
-[![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white)]()<br>
+[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://short.zeronet.space/gmail)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://short.zeronet.space/telegram)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://short.zeronet.space/reddit)
+[![Discord](https://img.shields.io/badge/KFC%20Foundation-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://short.zeronet.space/kfc)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://short.zeronet.space/so)
+[![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white)](https://short.zeronet.space/se)<br>
 ![I'am](https://img.shields.io/badge/-i'am-555566?style=for-the-badge)
 ![a](https://img.shields.io/badge/-a-555566?style=for-the-badge)
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
