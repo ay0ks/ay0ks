@@ -62,3 +62,4 @@
 <img align="right" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/><br>
 ![Love](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-ff00ff.svg?&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
