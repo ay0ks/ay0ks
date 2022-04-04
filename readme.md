@@ -3,13 +3,6 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay0ks&hide=html&layout=compact&hide_border=true&hide_title=true&count_private=true&theme=dracula&icon_color=5194f0&bg_color=0d1117"/>
 
 # Hi, I'm Dimitriy :wave:
-## I am middle Python backend developer. Currently learning🧑‍💻 TypeScript.
-[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://short.zeronet.space/gmail)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://short.zeronet.space/telegram)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://short.zeronet.space/reddit)
-[![Discord](https://img.shields.io/badge/KFC%20Foundation-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://short.zeronet.space/kfc)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://short.zeronet.space/so)
-[![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white)](https://short.zeronet.space/se)
 ## Skills
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
