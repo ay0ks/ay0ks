@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=cpp&logoColor=royalblue")
 ## Mostly use these operating systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Manjaro](https://shields.io/badge/manjaro-green?logo=manjaro&style=for-the-badge)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 ## Personal
