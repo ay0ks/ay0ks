@@ -12,5 +12,5 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 ## I'm searching for work, you contact me with any of methods listed below
-### **Email**: `contact (at) zeronet (dot) space|
+### **Email**: `contact (at) zeronet (dot) space`
 ### **VK**: https://vk.com/ay0ks
