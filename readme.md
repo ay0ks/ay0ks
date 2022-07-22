@@ -4,6 +4,8 @@
 
 # Hi, I'm Dimitriy :wave: <img src="https://komarev.com/ghpvc/?username=ay0ks&label=%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4"/>
 ## Skills
+### Currently learning C#
+### 
 ![](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)<br>
 ![](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>
@@ -16,15 +18,9 @@
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54")
 ![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white")
 ![](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=cpp&logoColor=royalblue")
+![](https://img.shields.io/badge/d-%23000000.svg?style=for-the-badge&logo=d&logoColor=royalblue")
 ## Mostly use these operating systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Manjaro](https://shields.io/badge/manjaro-green?logo=manjaro&style=for-the-badge)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
-## Personal
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![Bitrix24](https://img.shields.io/badge/bitrix24-cyan?&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Love](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-ff00ff.svg?&style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
