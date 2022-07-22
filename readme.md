@@ -5,22 +5,12 @@
 # Hi, I'm Dimitriy :wave: <img src="https://komarev.com/ghpvc/?username=ay0ks&label=%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4"/>
 ## Skills
 ### Currently learning C#
-### 
-![](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)<br>
-![](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>
-![](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)<br>
-![](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)<br>
-![](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)<br>
-![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E")
-![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white")
-![](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white")
-![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54")
-![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white")
-![](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=cpp&logoColor=royalblue")
-![](https://img.shields.io/badge/d-%23000000.svg?style=for-the-badge&logo=d&logoColor=royalblue")
+### Have basic/advanced knowledge and experience in these languages: `C++`, `D`, `Rust`, `JS/TS`, `PHP`, `Python`
 ## Mostly use these operating systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Manjaro](https://shields.io/badge/manjaro-green?logo=manjaro&style=for-the-badge)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
+## `I'm searching for work, you contact me with any of methods listed below`
+### **Email**: `contact (at) zeronet (dot) space|
+### **VK**: https://vk.com/ay0ks
