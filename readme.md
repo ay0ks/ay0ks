@@ -6,8 +6,7 @@
 ## Skills
 ### Currently learning C#
 ### Have basic/advanced knowledge and experience in these languages: `C++`, `D`, `Rust`, `JS/TS`, `PHP`, `Python`
-## Mostly use these operating systems
+## OS and Linux distos I use
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Manjaro](https://shields.io/badge/manjaro-green?logo=manjaro&style=for-the-badge)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
