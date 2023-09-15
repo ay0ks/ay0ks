@@ -1,11 +1,10 @@
 Hi, I'm Dimitriy 👋
 
-:computer: `C/C++/C#/Java/Kotlin/Rust/Python/JS/TS/PHP`
+:computer: C/C++/C#/Java/Kotlin/Rust/Python/JS/TS/PHP
 :globe_with_meridians:  Networking
 :books:  Protocols 
 :card_box:  Databases
 :cd:  OSDev (recently)
-```
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
