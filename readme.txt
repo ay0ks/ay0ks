@@ -4,7 +4,7 @@ Hi, I'm Dimitriy 👋
 :globe_with_meridians:  Networking
 :books:  Protocols 
 :briefcase:  Databases
-:cd:  OSDev (recently)
+:cd:  OS development (recently)
 
 Development environment: Windows + Visual Studio or Fedora/Arch + Jetbrains products
 
