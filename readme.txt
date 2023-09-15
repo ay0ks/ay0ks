@@ -9,4 +9,4 @@ Hi, I'm Dimitriy 👋
 Development environment: Windows + Visual Studio or Fedora/Arch + Jetbrains products
 
 (currently unemployed)
-(deleted old repos, starting from scratch)
+(deleted all the old repos, starting everything from scratch)
