@@ -7,3 +7,5 @@ Hi, I'm Dimitriy 👋
 :cd:  OSDev (recently)
 
 Development environment: Windows + Visual Studio or Fedora/Arch + Jetbrains products
+
+(currently unemployed)
