@@ -12,5 +12,5 @@ Development environment: Windows + Visual Studio or Fedora/Arch + Jetbrains prod
 (deleted all the old repos, starting everything from scratch)
 
 Contact information
-:mail: dimitriy@darkcat.cloud
+:email: dimitriy@darkcat.cloud
 :discord: @ay0ks
