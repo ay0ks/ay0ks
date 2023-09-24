@@ -13,4 +13,4 @@ Development environment: Windows + Visual Studio or Fedora/Arch + Jetbrains prod
 
 Contact information
 :email: dimitriy@darkcat.cloud
-:discord: @ay0ks
+:network: @ay0ks (Discord)
