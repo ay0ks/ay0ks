@@ -14,4 +14,4 @@ Development environment: Windows + Visual Studio or Fedora/Arch + Jetbrains prod
 Contact information
 :email: dimitriy@darkcat.cloud
 :globe_with_meridians: @ay0ks (Discord)
-:globe_with_meridians: @ay0ks (Telegram. Not my primary messenger so I can answer with delays)
+:globe_with_meridians: @ay0ks (Telegram. Not my primary messenger so I may answer with delays)
