@@ -9,7 +9,6 @@ Hi, I'm Dimitriy 👋
 Development environment: Windows + Visual Studio or Fedora/Arch + Jetbrains products
 
 (currently unemployed)
-(deleted all the old repos, starting everything from scratch)
 
 Contact information
 :email: dimitriy@darkcat.cloud
