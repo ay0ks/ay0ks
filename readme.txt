@@ -1,6 +1,6 @@
 Hi, I'm Dimitriy 👋
 
-🖥  C/C++/C#/Rust/Python/JS/TS/PHP
+💻  C/C++/C#/Rust/Python/JS/TS/PHP
 🌐  Networking
 📚  Protocols 
 🔑  Cryptography
