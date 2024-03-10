@@ -5,6 +5,8 @@ Hi, I'm Dimitriy 👋
 📚  Protocols 
 🔑  Cryptography
 💼  Databases
+💽  OS development (beginner)
+🎮  Game development (both native and web)
 
 Development environment: Windows + Visual Studio or Fedora/Arch + Jetbrains products
 
