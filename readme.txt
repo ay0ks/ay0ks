@@ -8,7 +8,7 @@ Hi, I'm Dimitriy 👋
 💽  OS development (beginner)
 🎮  Game development (both native and web)
 
-Development environment: Windows + Visual Studio or Fedora/Arch + Jetbrains products
+OSes I use: Windows / Fedora / Arch
 
 (currently unemployed)
 
