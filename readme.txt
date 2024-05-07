@@ -19,6 +19,7 @@
 📧 dimitriy@darkcat.cloud
     gpg: D32CED843CB1A8F2EC45884010EE0BF7AB526126
 🌐 @ay0ks (Discord)
+🌐 @ay0ks (Mastodon; mastodon.social)
 🌐 @ay0ks (Telegram. Not my primary messenger so I may answer with delays)
 
 %% Keys
