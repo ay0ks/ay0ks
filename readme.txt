@@ -16,8 +16,6 @@
 📧 me@ay0ks.wtf
     gpg: C95E03A250E0EE7A9E749710442D465A8E8F5771
          DB28918C4C538E22B8C3EAC275864866DE4DE155
-📧 dimitriy@darkcat.cloud
-    gpg: D32CED843CB1A8F2EC45884010EE0BF7AB526126
 🌐 @ay0ks (Discord)
 🌐 @ay0ks (Mastodon; mastodon.social)
 🌐 @ay0ks (Telegram. Not my primary messenger so I may answer with delays)
