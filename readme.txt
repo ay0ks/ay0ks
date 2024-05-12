@@ -22,6 +22,8 @@
 🌐 @ay0ks (Mastodon; mastodon.social)
 🌐 @ay0ks (Telegram. Not my primary messenger so I may answer with delays)
 
-%% Keys
-🖥️ ssh: `sssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMp6xdLUqslZPh2EKhbSMzdKtpQ7KCPA7B06jowCFr80 ay0ks (me@ay0ks.wtf)` (Authentication)
-        `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJlx5P3+qox88riEXMGJkt0CoIwIqIOuIiggPGa1xy3r ay0ks (me@ay0ks.wtf)` (Sign)
+%% Keys (Authentication)
+🖥️ ssh: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMp6xdLUqslZPh2EKhbSMzdKtpQ7KCPA7B06jowCFr80 ay0ks (me@ay0ks.wtf)`
+
+%% Keys (Signing)
+🖥️ ssh: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJlx5P3+qox88riEXMGJkt0CoIwIqIOuIiggPGa1xy3r ay0ks (me@ay0ks.wtf)`
