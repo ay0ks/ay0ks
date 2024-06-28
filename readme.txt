@@ -13,15 +13,13 @@
 (currently unemployed)
 
 %% Contacts
-📧 me@ay0ks.wtf
-    gpg: C95E03A250E0EE7A9E749710442D465A8E8F5771
-         DB28918C4C538E22B8C3EAC275864866DE4DE155
+📧 ay0o0ks000@gmail.com
 🌐 @ay0ks (Discord)
 🌐 @ay0ks (Mastodon; mastodon.social)
 🌐 @ay0ks (Telegram. Not my primary messenger so I may answer with delays)
 
 %% Keys (Authentication)
-🖥️ ssh: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMp6xdLUqslZPh2EKhbSMzdKtpQ7KCPA7B06jowCFr80 ay0ks (me@ay0ks.wtf)`
+🖥️ ssh: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMXyqyE4nDu3fX9DritJHbQh6MrHLyAAaSTzSYZ/a12x ay0ks`
 
 %% Keys (Signing)
-🖥️ ssh: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJlx5P3+qox88riEXMGJkt0CoIwIqIOuIiggPGa1xy3r ay0ks (me@ay0ks.wtf)`
+🖥️ ssh: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHhzR0dTh/0Q27StaGXmFq8pcB8bF/lIEmqkNbvxlYj8 ay0ks`
