@@ -8,7 +8,7 @@
 💽  OS development (beginner)
 🎮  Game development (both native and web)
 
-**  Windows / Fedora / Arch
+**  Windows / Fedora
 
 (currently unemployed)
 
