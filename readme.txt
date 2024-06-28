@@ -1,6 +1,6 @@
 %%  Hi, I'm Dimitriy 👋
 
-💻  C/C++/C#/Rust/Python/JS/TS/Go
+💻  C/C++/C#/Rust/Go/Java
 🌐  Networking
 📚  Protocols 
 🔑  Cryptography
