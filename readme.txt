@@ -18,8 +18,4 @@
 🌐 @ay0ks (Mastodon; mastodon.social)
 🌐 @ay0ks (Telegram. Not my primary messenger so I may answer with delays)
 
-%% Keys (Authentication)
-🖥️ ssh: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMXyqyE4nDu3fX9DritJHbQh6MrHLyAAaSTzSYZ/a12x ay0ks`
-
-%% Keys (Signing)
-🖥️ ssh: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHhzR0dTh/0Q27StaGXmFq8pcB8bF/lIEmqkNbvxlYj8 ay0ks`
+%% My public SSH and GPG keys are available through Github API
