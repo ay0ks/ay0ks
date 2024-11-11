@@ -5,7 +5,7 @@
 📚  Protocols 
 🔑  Cryptography
 💼  Databases
-💽  OS development (beginner)
+💽  OS development
 🎮  Game development (both native and web)
 
 **  Windows / Fedora
