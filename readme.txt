@@ -1,21 +1,23 @@
-%%  Hi, I'm Dimitriy 👋
+%%  Proficient in the following development areas:
+ * Networking
+ * Protocols (designing and implementation)
+ * Cryptography
+ * Low-level (kernels, drivers, optimized-to-a-micron software)
 
-💻  C/C++/C#/Rust/Go/Java
-🌐  Networking
-📚  Protocols 
-🔑  Cryptography
-💼  Databases
-💽  OS development
-🎮  Game development (both native and web)
+%%  Development-wise, familiar with the following languages:
+   (7 years of nonprofessional experience)
+ * Primary: C and C++, Rust
+ * Secondary: C#, Java
+ * Experimenting with: F#, Haskell
 
-**  Windows / Fedora
+%%  Communication-wise, speak the following languages:
+ * Polish (Native)
+ * English (C1)
+ * Russian (C1)
+ * German (A2)
 
-(currently unemployed)
+%%  Contacts:
+   (you can verify the email with https://github.com/ay0ks.gpg)
+ * Email: <ay0o0ks000@gmail.com>
+ * Discord: @ay0ks
 
-%% Contacts
-📧 ay0o0ks000@gmail.com
-🌐 @ay0ks (Discord)
-🌐 @ay0ks (Mastodon; mastodon.social)
-🌐 @ay0ks (Telegram. Not my primary messenger so I may answer with delays)
-
-%% My public SSH and GPG keys are available through Github API
