@@ -18,6 +18,6 @@
 
 %%  Contacts:
    (you can verify the email with https://github.com/ay0ks.gpg)
- * Email: <ay0o0ks000@gmail.com>
+ * Email: <ay0o0ks000@proton.me>
  * Discord: @ay0ks
 
