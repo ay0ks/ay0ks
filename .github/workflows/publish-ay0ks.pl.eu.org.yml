@@ -21,4 +21,4 @@ jobs:
         uses: rayluo/github-pages-overwriter@v1.3
         with:
           source-directory: ./ay0ks.pl.eu.org
-          target-branch: main/ay0ks.pl.eu.org
+          target-branch: main-ay0ks.pl.eu.org
