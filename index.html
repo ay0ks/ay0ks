@@ -1,18 +1,91 @@
-<html>
-<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"/>
 <style>
-html, body { 
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
+body {
+  background-color: rgba(0, 0, 0, 0.9);
+  color: rgba(255, 255, 255, 0.85);
+  font-family: monospace;
 }
 
-body {
-  background-color: #333333;
+.content {
+  display: block;
+
+  .enumeration { 
+    display: inherit;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 0;
+}
+
+p {
+  margin: 0;
+}
+
+pre {
+  max-height: 100px;
+  width: fit-content;
+  margin: 0 0 2px 0;
+  overflow: scroll;
+  
+  &::-webkit-scrollbar {
+    width: 1px;
+    height: 1px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 20px;
+
+    &:window-inactive {
+      background: red; 
+    }
+  }
+
+  &::-webkit-scrollbar-corner {
+    background-color: transparent;
+  }
+  
+  small {
+    display: block;
+    margin: 0 0 10px 0;
+    padding-right: 4px;
+  }
+}
+
+a {
+  color: cyan;
+
+  &:visited {
+    color: darkcyan;
+  }
+}
+
+.signature {
+  color: #222 !important;
+}
+
+pre {
+  line-height: 10px !important;
 }
 </style>
-</head>
-<body>
-<center><h1>ay0ks</h1></center>
-</body>
-</html>
+<img src="ay0ks.png" height="128" width="128"/>
+<h1>Hello there 👋</h1>
+<div class="content">
+<p>My name is <b>Dimitriy</b>, but I am more known by my pseudonym <b>ay0ks</b>.</p>
+<p>Here is a little info about me:</p>
+<div class="enumeration">
+<p>I am experienced in: C, C++, C#, Rust, Go and Java.</p>
+<p>I have experience of designing networks and developing protocols, language design, several DBM system exploitation (PostgreSQL, MySQL, SQL Server)</p>
+</div>
+<h2>Contacts</h2>
+<div class="enumeration">
+<p>📧 <a href="mailto:ay0o0ks000@gmail.com">ay0o0ks000@gmail.com</a></p>
+<p>🌐 <a href="https://discord.com/channels/@me/467290739219496960">@ay0ks</a> (Discord)</p>
+</div>
+</div>
